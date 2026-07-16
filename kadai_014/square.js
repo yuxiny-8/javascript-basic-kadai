@@ -2,4 +2,4 @@ const userVariable = (num) => {
   return num **2;
 }
 
-console.log(userVariable(num));
+console.log(userVariable(10));
