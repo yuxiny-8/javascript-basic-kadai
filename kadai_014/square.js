@@ -1,6 +1,5 @@
-const userVariable = () => {
-  const num = 10
+const userVariable = (num) => {
   return num **2;
 }
 
-console.log(userVariable());
+console.log(userVariable(num));
